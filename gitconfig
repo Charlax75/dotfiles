@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = charlesaxeljr@gmail.com
+	name = char√les axel rhea
